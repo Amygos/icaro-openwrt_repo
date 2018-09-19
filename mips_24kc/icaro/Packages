@@ -4,10 +4,10 @@ Depends: libc, kmod-tun, librt, libcurl, zlib
 License: GPL-2.0+
 Section: net
 Architecture: mips_24kc
-Installed-Size: 257443
+Installed-Size: 257438
 Filename: coova-chilli-dedalo_1.3.0+20141128-1_mips_24kc.ipk
-Size: 258080
-SHA256sum: 137305c870dbebb80128cc593c7144a501245c63e4a87f00344adf2be0513b5a
+Size: 258085
+SHA256sum: 639df9b8f8d372a5de00804b791ea454a53892edd839f33d5e99d0a9d1273a76
 Description:  CoovaChilli is an open source access controller for wireless LAN
  access points and is based on ChilliSpot. It is used for authenticating
  users of a wireless (or wired) LAN. It supports web based login (UAM)
@@ -21,10 +21,10 @@ Version: 0.2.0-1
 Depends: libc, curl, grep, ca-bundle, haserl, coova-chilli-dedalo
 Section: base
 Architecture: all
-Installed-Size: 3729
+Installed-Size: 3735
 Filename: dedalo_0.2.0-1_all.ipk
 Size: 4470
-SHA256sum: 390d5d4d85673f0763357951ca67359501928add4c9afe9d7328ca6bcbfeed72
+SHA256sum: 58c8a29cdbc3dda02ce4e71a4ac7ebf81de9a60966145ccb20611c5a87fa6610
 Description:  Dedalo is the Network Access Controller, runs on the firewall and intercepts all guest connections.
  It's a configuration helper for Coova-Chilli
 
@@ -33,9 +33,9 @@ Version: 0.0.1-1
 Depends: libc, dedalo, uuidgen
 Section: base
 Architecture: all
-Installed-Size: 1235
+Installed-Size: 1237
 Filename: openwrt-dedalo_0.0.1-1_all.ipk
-Size: 2571
-SHA256sum: 3fd304c20c6e1acd81d831469451c704a87b48f0b827c0a872f4a70a8be7cb57
+Size: 2567
+SHA256sum: efeb81f08863af7cb7a01db380fbcab930f162632094dc1ec1942c8c9eda8d3a
 Description:  Dedalo capitve portal based on CoovaChilli
 
